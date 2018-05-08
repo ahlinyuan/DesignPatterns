@@ -6,6 +6,6 @@ package sample.strategypattern;
 public class FlyWithWings implements FlyBehavior {
     @Override
     public void fly() {
-        System.out.println("Fly With Wings");
+        System.out.println("Fly With Wings 翅膀飞");
     }
 }
