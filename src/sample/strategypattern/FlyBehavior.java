@@ -5,5 +5,5 @@ package sample.strategypattern;
  */
 public interface FlyBehavior {
 
-    public void fly();
+    void fly();
 }
